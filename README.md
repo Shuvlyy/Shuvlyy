@@ -28,6 +28,15 @@ I love programming, photography and music.
 ###
 
 <!--START_SECTION:waka-->
+
+```txt
+Other             24 hrs 26 mins  ███████████▒░░░░░░░░░░░░░   44.75 %
+Java              20 hrs 20 mins  █████████▒░░░░░░░░░░░░░░░   37.25 %
+C                 7 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+Canva Design      52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+YAML              48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+```
+
 <!--END_SECTION:waka-->
 
 ###
