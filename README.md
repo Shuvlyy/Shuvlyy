@@ -30,11 +30,18 @@ I love programming, photography and music.
 <!--START_SECTION:waka-->
 
 ```txt
-Other             24 hrs 26 mins  ███████████▒░░░░░░░░░░░░░   44.75 %
-Java              20 hrs 20 mins  █████████▒░░░░░░░░░░░░░░░   37.25 %
-C                 7 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Canva Design      52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-YAML              48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+From: 24 July 2022 - To: 17 February 2024
+
+Total Time: 648 hrs 22 mins
+
+C                 200 hrs 16 mins ████████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   30.89 %
+Other             145 hrs 12 mins ██████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   22.40 %
+sh                71 hrs 41 mins  ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   11.06 %
+ObjectiveC        68 hrs 22 mins  ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   10.55 %
+Dart              62 hrs 33 mins  ██▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   09.65 %
+Java              53 hrs 48 mins  ██▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   08.30 %
+Makefile          11 hrs 34 mins  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   01.79 %
+Python            9 hrs 41 mins   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   01.50 %
 ```
 
 <!--END_SECTION:waka-->
