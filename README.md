@@ -20,7 +20,7 @@
 ###
 
 I'm Lysandre, a French 17 year-old passionate developer since 2017.
-I love programming, photography and music.
+I love programming, photography, aviation and music.
 
 `🎓` I'm a first year student at [Epitech](https://www.epitech.eu/). \
 `🛠️` I'm currently working on [Hashtek](https://github.com/hashtek-mc).
