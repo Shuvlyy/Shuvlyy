@@ -30,18 +30,18 @@ I love programming, photography, aviation and music.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2022 - To: 06 April 2024
+From: 24 July 2022 - To: 13 April 2024
 
-Total Time: 861 hrs 52 mins
+Total Time: 895 hrs 36 mins
 
-Other             239 hrs 46 mins ███████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   27.82 %
-C                 231 hrs 59 mins ███████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   26.92 %
-sh                95 hrs 5 mins   ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   11.03 %
-Java              91 hrs 40 mins  ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   10.64 %
-ObjectiveC        80 hrs 20 mins  ██▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   09.32 %
-Dart              62 hrs 33 mins  ██▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   07.26 %
-Makefile          13 hrs 54 mins  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   01.61 %
-Python            9 hrs 49 mins   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   01.14 %
+Other             251 hrs 21 mins ███████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   28.07 %
+C                 235 hrs 29 mins ███████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   26.29 %
+Java              100 hrs 30 mins ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   11.22 %
+sh                99 hrs 42 mins  ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   11.13 %
+ObjectiveC        82 hrs 25 mins  ██▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   09.20 %
+Dart              62 hrs 33 mins  ██▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   06.99 %
+Makefile          14 hrs 2 mins   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   01.57 %
+Python            9 hrs 49 mins   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   01.10 %
 ```
 
 <!--END_SECTION:waka-->
