@@ -30,13 +30,13 @@ I love programming, photography, aviation and music.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2022 - To: 15 June 2024
+From: 24 July 2022 - To: 22 June 2024
 
-Total Time: 1,163 hrs 23 mins
+Total Time: 1,163 hrs 29 mins
 
 Other             336 hrs 49 mins ███████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   28.95 %
 C                 262 hrs 26 mins ██████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   22.56 %
-Java              190 hrs 45 mins ████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   16.40 %
+Java              190 hrs 50 mins ████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   16.40 %
 sh                127 hrs 5 mins  ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   10.92 %
 ObjectiveC        99 hrs 10 mins  ██▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   08.52 %
 Dart              62 hrs 33 mins  █▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   05.38 %
