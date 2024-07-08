@@ -19,7 +19,7 @@
 
 ###
 
-I'm Lysandre, a French 17 year-old passionate developer since 2017.
+I'm Lysandre, a French 18 year-old passionate developer since 2017.
 I love programming, photography, aviation and music.
 
 `🎓` I'm a 2nd year student at [Epitech](https://www.epitech.eu/). \
