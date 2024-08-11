@@ -30,7 +30,7 @@ I love programming, photography, aviation and music.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2022 - To: 03 August 2024
+From: 24 July 2022 - To: 10 August 2024
 
 Total Time: 1,163 hrs 29 mins
 
