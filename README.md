@@ -1,4 +1,4 @@
-<h1 align="center">Hi ! 👋🏻</h1>
+<h1 align="center">Hi! 👋🏻</h1>
 
 ###
 
@@ -6,11 +6,11 @@
   <a href="https://www.linkedin.com/in/lysandre-boursette-660a282a2/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/users/817437866475913236" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="discord logo"  />
-  </a>
   <a href="https://www.instagram.com/shuvlyyy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/817437866475913236" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="discord logo"  />
   </a>
   <a href="https://twitch.tv/shuvlyy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="twitch logo"  />
@@ -24,6 +24,7 @@ I love programming, photography, aviation and music.
 
 `🎓` I'm a 2nd year student at [Epitech](https://www.epitech.eu/). \
 `🛠️` I'm currently working on [Hashtek](https://github.com/hashtek-mc).
+`📧` Reach me at [lysandre.boursette@epitech.eu](mailto:lysandre.boursette@epitech.eu)!
 
 ###
 
