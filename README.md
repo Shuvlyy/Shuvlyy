@@ -22,9 +22,9 @@
 I'm Lysandre, a French 18 year-old passionate developer since 2017.
 I love programming, photography, aviation and music.
 
-`🎓` I'm a 2nd year student at [Epitech](https://www.epitech.eu/). \
-`🛠️` I'm currently working on [Hashtek](https://github.com/hashtek-mc).\
-`📧` Reach me at [lysandre.boursette@epitech.eu](mailto:lysandre.boursette@epitech.eu)!
+`🎓` I'm a 2nd year student at [Epitech](https://www.epitech.eu/) \
+`🛠️` I'm currently working on [Hashtek](https://github.com/hashtek-mc)\
+`📧` Reach me at [lysandre.boursette@epitech.eu](mailto:lysandre.boursette@epitech.eu)
 
 ###
 
