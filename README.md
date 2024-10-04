@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src="https://github.com/Shuvlyy/Shuvlyy/blob/main/media/shuvlylove.png?raw=true" width="48" title="shuvlylove <3"></h1>
+<h1 align="center">Hi! <img src="https://github.com/Shuvlyy/Shuvlyy/blob/main/media/shuvlylove.png?raw=true" width="36" title="shuvlylove <3"></h1>
 
 ###
 
