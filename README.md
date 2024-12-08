@@ -31,18 +31,18 @@ I love programming, [photography](https://instagram.com/shuvlyyy/), aviation and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2022 - To: 30 November 2024
+From: 24 July 2022 - To: 07 December 2024
 
-Total Time: 1,367 hrs 46 mins
+Total Time: 1,374 hrs 31 mins
 
-Other             337 hrs 43 mins ██████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   24.69 %
-Java              286 hrs 5 mins  █████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   20.92 %
-C                 262 hrs 28 mins █████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   19.19 %
-sh                179 hrs 52 mins ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   13.15 %
-Dart              112 hrs 27 mins ██▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   08.22 %
-ObjectiveC        99 hrs 10 mins  ██▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   07.25 %
+Other             337 hrs 52 mins ██████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   24.58 %
+Java              286 hrs 42 mins █████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   20.86 %
+C                 262 hrs 28 mins █████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   19.10 %
+sh                179 hrs 52 mins ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   13.09 %
+Dart              118 hrs 23 mins ██▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   08.61 %
+ObjectiveC        99 hrs 10 mins  ██▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   07.22 %
 Makefile          16 hrs 17 mins  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   01.19 %
-Canva Design      12 hrs 56 mins  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   00.95 %
+Canva Design      12 hrs 56 mins  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   00.94 %
 ```
 
 <!--END_SECTION:waka-->
