@@ -31,14 +31,14 @@ I love programming, [photography](https://instagram.com/shuvlyyy/), aviation and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2022 - To: 20 December 2024
+From: 24 July 2022 - To: 27 December 2024
 
-Total Time: 1,379 hrs 25 mins
+Total Time: 1,379 hrs 55 mins
 
 Other             337 hrs 52 mins ██████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   24.49 %
-Java              286 hrs 46 mins █████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   20.79 %
-C                 262 hrs 28 mins █████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   19.03 %
-sh                180 hrs 16 mins ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   13.07 %
+Java              286 hrs 53 mins █████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   20.79 %
+C                 262 hrs 28 mins █████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   19.02 %
+sh                180 hrs 38 mins ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   13.09 %
 Dart              122 hrs 48 mins ██▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   08.90 %
 ObjectiveC        99 hrs 10 mins  ██▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   07.19 %
 Makefile          16 hrs 17 mins  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   01.18 %
