@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/lysandre-boursette-660a282a2/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/shuvlyyy/" target="_blank">
+  <a href="https://www.instagram.com/ly.b.__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/817437866475913236" target="_blank">
@@ -20,7 +20,7 @@
 ###
 
 I'm Lysandre, a French 18 year-old passionate developer since 2017.
-I love programming, [photography](https://instagram.com/shuvlyyy/), aviation and music.
+I love programming, [photography](https://instagram.com/ly.b.__/), aviation and music.
 
 `🎓` I'm a 2nd year student at [Epitech](https://www.epitech.eu/) \
 `🛠️` I'm currently working on [Hashtek](https://github.com/hashtek-mc)\
