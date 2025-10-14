@@ -72,6 +72,10 @@ C/C                           35 hrs 24 mins  ▬▬▬▬▬▬▬▬▬▬▬�
 
 ###
 
+<div align="center"><h3><a href="media/cv.pdf" download>📩 Download my CV</a></h3></div>
+
+###
+
 <div align="right">
   <a href="https://wakatime.com/@Shuvly"><img src="https://wakatime.com/badge/user/2f50fe6c-0368-4bef-aa01-3a67193b63f8.svg" alt="Total time coded since Jul 25 2022" /></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shuvlyy.shuvlyy&right_color=mediumpurple&left_text=Profile%20views"  />
