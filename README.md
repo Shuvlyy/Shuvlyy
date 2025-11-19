@@ -18,7 +18,7 @@ I'm Lysandre, a French 19 year-old passionate developer since 2017.
 I love programming, [photography](https://instagram.com/ly.b.__/), aviation and music.
 
 `🎓` I'm a 3rd year student at [Epitech](https://www.epitech.eu/) \
-`🛠️` I'm currently working on [Lumaely](https://github.com/Lumaely)\
+`🛠️` I'm currently working on [R-Type](https://github.com/lypitech/rtype)\
 `📧` Reach me at [lysandre.boursette@epitech.eu](mailto:lysandre.boursette@epitech.eu)
 
 ###
