@@ -26,11 +26,11 @@ I love programming, [photography](https://instagram.com/ly.b.__/), aviation and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2022 - To: 20 December 2025
+From: 24 July 2022 - To: 27 December 2025
 
-Total Time: 2,240 hrs 56 mins
+Total Time: 2,240 hrs 58 mins
 
-sh                            385 hrs 34 mins ████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   17.21 %
+sh                            385 hrs 35 mins ████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   17.21 %
 C                             338 hrs 35 mins ████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   15.11 %
 Other                         338 hrs 19 mins ████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   15.10 %
 Java                          288 hrs 50 mins ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   12.89 %
