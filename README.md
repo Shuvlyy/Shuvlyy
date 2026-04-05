@@ -26,7 +26,7 @@ I love programming, [photography](https://instagram.com/ly.b.__/), aviation and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2022 - To: 28 March 2026
+From: 24 July 2022 - To: 04 April 2026
 
 Total Time: 2,300 hrs 47 mins
 
