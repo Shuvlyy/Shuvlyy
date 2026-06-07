@@ -26,16 +26,16 @@ I love programming, [photography](https://instagram.com/ly.b.__/), aviation and 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2022 - To: 30 May 2026
+From: 24 July 2022 - To: 06 June 2026
 
-Total Time: 2,326 hrs 4 mins
+Total Time: 2,329 hrs 59 mins
 
-sh                            407 hrs 55 mins       ████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   17.54 %
-C                             338 hrs 46 mins       ████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   14.56 %
-Other                         338 hrs 19 mins       ████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   14.55 %
-C++                           303 hrs 9 mins        ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   13.03 %
-Java                          289 hrs 17 mins       ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   12.44 %
-Dart                          271 hrs 44 mins       ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   11.68 %
+sh                            411 hrs 50 mins       ████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   17.68 %
+C                             338 hrs 46 mins       ████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   14.54 %
+Other                         338 hrs 19 mins       ████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   14.52 %
+C++                           303 hrs 9 mins        ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   13.01 %
+Java                          289 hrs 17 mins       ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   12.42 %
+Dart                          271 hrs 44 mins       ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   11.66 %
 ObjectiveC                    99 hrs 23 mins        █▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   04.27 %
 C/C                           57 hrs 33 mins        █▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   02.47 %
 ```
