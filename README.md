@@ -23,27 +23,6 @@ I love programming, [photography](https://instagram.com/ly.b.__/), aviation and 
 
 ###
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 July 2022 - To: 27 June 2026
-
-Total Time: 2,340 hrs 16 mins
-
-sh                            418 hrs 4 mins        ████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   17.86 %
-C                             338 hrs 46 mins       ████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   14.48 %
-Other                         338 hrs 19 mins       ████▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   14.46 %
-C++                           303 hrs 9 mins        ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   12.95 %
-Java                          289 hrs 17 mins       ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   12.36 %
-Dart                          274 hrs 24 mins       ███▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   11.73 %
-ObjectiveC                    99 hrs 23 mins        █▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   04.25 %
-C/C                           57 hrs 33 mins        █▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬   02.46 %
-```
-
-<!--END_SECTION:waka-->
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shuvlyy&locale=en&mode=daily&theme=material-palenight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
